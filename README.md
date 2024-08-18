@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamandiniJayasighe&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+<img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
+
 
 An ambitious, energetic, and self-motivated person who is willing to do any task and has the ability to work well with
 people, leadership qualities, creativity, and who enjoys doing full stack development.
