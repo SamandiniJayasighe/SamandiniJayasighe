@@ -9,10 +9,10 @@
 
 An ambitious, energetic, and self-motivated person who is willing to do any task and has the ability to work well with
 people, leadership qualities, creativity, and who enjoys doing full stack development.
-⚡ Fun fact: Green Apple Tea and Chocolate  =  Best Combination 
-🚀 Passionate about Web development | Computer Vision 👁️ | Machine & Deep Learning 🤖
-🌍  Gampaha, Sri Lanka
-✉️  contact me at [SandunikaSamandini18@gmail.com](mailto:SandunikaSamandini18@gmail.com)
+* ⚡ Fun fact: Green Apple Tea and Chocolate  =  Best Combination 
+* 🚀 Passionate about Web development | Computer Vision 👁️ | Machine & Deep Learning 🤖
+* 🌍  Gampaha, Sri Lanka
+* ✉️  contact me at [SandunikaSamandini18@gmail.com](mailto:SandunikaSamandini18@gmail.com)
 ### Skills
 
 
