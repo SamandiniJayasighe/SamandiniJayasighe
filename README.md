@@ -35,7 +35,6 @@ people, leadership qualities, creativity, and who enjoys doing full stack develo
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=SamandiniJayasighe&theme=rose_pine&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 
 <!--
