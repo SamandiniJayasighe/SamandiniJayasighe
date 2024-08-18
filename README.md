@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamandiniJayasighe&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-<img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
+<p align="center">
+  <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
+</p>
+
 
 
 An ambitious, energetic, and self-motivated person who is willing to do any task and has the ability to work well with
@@ -32,6 +35,7 @@ people, leadership qualities, creativity, and who enjoys doing full stack develo
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=SamandiniJayasighe&theme=rose_pine&hide_border=true&background=FFFFFF00">
   <br>
   <br>
+  <img align="center" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 
 <!--
