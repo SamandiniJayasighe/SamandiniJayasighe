@@ -1,5 +1,11 @@
-## Hi there 👋
 
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  Hi there 👋 I'm Sandunika Jayasinghe </h3>
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamandiniJayasighe&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 <!--
 **SamandiniJayasighe/SamandiniJayasighe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
